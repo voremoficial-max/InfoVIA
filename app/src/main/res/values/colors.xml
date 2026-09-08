@@ -1,0 +1,28 @@
+<resources>
+    <!-- Paleta base de marca -->
+    <color name="brand_primary">#1E5AA8</color>
+    <color name="brand_primary_dark">#123A6E</color>
+    <color name="brand_secondary">#F2A93B</color>
+
+    <!-- Colores por TIPO de reporte (nunca deben mezclarse con los de nivel) -->
+    <color name="report_type_transito">#1E88E5</color>
+    <!-- Azul -->
+    <color name="report_type_accidente">#43A047</color>
+    <!-- Verde -->
+
+    <!-- Colores por NIVEL de intensidad -->
+    <color name="report_level_bajo">#FDD835</color>
+    <!-- Amarillo -->
+    <color name="report_level_medio">#FB8C00</color>
+    <!-- Naranja -->
+    <color name="report_level_alto">#E53935</color>
+    <!-- Rojo -->
+
+    <!-- Neutros -->
+    <color name="background_light">#FFFBFE</color>
+    <color name="background_dark">#1C1B1F</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#2B2930</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+</resources>
