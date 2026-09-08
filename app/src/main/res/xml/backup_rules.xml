@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sin datos personales que respaldar: la app no maneja cuentas ni
+   información identificable del usuario, por lo que no se define
+   ningún <include> explícito.
+-->
+<full-backup-content>
+</full-backup-content>

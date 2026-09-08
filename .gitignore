@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+/local.properties
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio
+.idea/
+*.hprof
+
+# Keystores (nunca deben subirse al repositorio)
+*.jks
+*.keystore
+
+# En Fase 2 se incluye explícitamente la configuración real de Firebase.
+# No ignorar el archivo de la app para que GitHub Actions lo reciba.
+!app/google-services.json
